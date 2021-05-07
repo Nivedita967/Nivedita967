@@ -1,22 +1,29 @@
-### Hi there 👋
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
+Holla there 🖖 
+---
+You have finally discovered my Github profile.😜  
+
+<img align="right" src="https://media.giphy.com/media/bMdZu3fG2ZEBO/giphy.gif" />
+
+I am Nivedita Singh. ✨ 
+--- 
+- Pronouns : She/her ... 👩   
+- Open for collaboration ... 🌟 
+- Lifelong learner who keeps acquiring new skills and capabilities in life ... 📝
+- Passionate about Web Development ... 🖥  
+- Working on Front-end and Back-end Technologies ... 🚧
+- Competitive Programming ... 🎯
+- Open Source Countributor ... 👩‍💻   
+- I really enjoy music 🎼 and playing Basketball ... 🤾‍♀️ 
+- Love to have a cup of Coffee with Coding ... ☕
+- Read my Blog ... [KWoC experience](https://nivedita19390.medium.com/kwoc-kharagpur-winter-of-code-project-report-961b3b7be7a9)
+  
+ [![Nivedita's github stats](https://github-readme-stats.vercel.app/api?username=Nivedita967&show_icons=true&line_height=24.5)](https://github.com/Nivedita967/github-readme-stats)  [![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedita967&layout=compact&langs_count=8)](https://github.com/Nivedita967/github-readme-stats)
+ 
+<h2 align="center">📫 Feel free to reach out ... </h2>
+<p align="center">
+<b>Ask me anything here ... <a href="https://www.linkedin.com/in/nivedita-singh-195b6818a/"><img src="https://img.shields.io/badge/-Nivedita_Singh-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/nivedita-singh-195b6818a/" alt="Linkedin Badge" height="30"></a>  
+<br><br>
+<b>or email me  ... <a href="mailto:nivedita19390@gmail.com"><img src="https://img.shields.io/badge/-nivedita19390@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nivedita19390@gmail.com" alt="Gmail Badge" height="30"></a></h2>
+</p>
 <hr>
-🐱‍🏍 Hello<br>
-I am Nivedita Singh <br>
-A Web Developer ^_~ <br>
-<h2 id="twitter-badge--linkedin-badge-gmail-badge" style="position:relative;"><a href="#twitter-badge--linkedin-badge-gmail-badge" aria-label="twitter badge  linkedin badge gmail badge permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><a href="https://twitter.com/Nivedit95025806"><img src="https://img.shields.io/badge/-Nivedita_Singh-1ca0f1?style=flat-square&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/Nivedit95025806" alt="Twitter Badge"></a>  <a href="https://www.linkedin.com/in/nivedita-singh-195b6818a/"><img src="https://img.shields.io/badge/-Nivedita_Singh-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/nivedita-singh-195b6818a/" alt="Linkedin Badge"></a> <a href="mailto:nivedita19390@gmail.com"><img src="https://img.shields.io/badge/-nivedita19390@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nivedita19390@gmail.com" alt="Gmail Badge"></a></h2>
-
-<!--
-**Nivedita967/Nivedita967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2 align="center">☕ Happy Coding ☕</p>
