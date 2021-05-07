@@ -13,11 +13,11 @@ I am Nivedita Singh. ✨
 - Working on Front-end and Back-end Technologies ... 🚧
 - Competitive Programming ... 🎯
 - Open Source Countributor ... 👩‍💻   
-- I really enjoy music 🎼 and playing Basketball ... 🤾‍♀️ 
+- Really enjoy music 🎼 and playing Basketball ... 🤾‍♀️ 
 - Love to have a cup of Coffee with Coding ... ☕
 - Read my Blog ... [KWoC experience](https://nivedita19390.medium.com/kwoc-kharagpur-winter-of-code-project-report-961b3b7be7a9)
   
- [![Nivedita's github stats](https://github-readme-stats.vercel.app/api?username=Nivedita967&show_icons=true&line_height=24.5)](https://github.com/Nivedita967/github-readme-stats)  [![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedita967&layout=compact&langs_count=8)](https://github.com/Nivedita967/github-readme-stats)
+ [![Nivedita's github stats](https://github-readme-stats.vercel.app/api?username=Nivedita967&show_icons=true)](https://github.com/Nivedita967/github-readme-stats)  [![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedita967&layout=compact&langs_count=8&card_width=447)](https://github.com/Nivedita967/github-readme-stats)
  
 <h2 align="center">📫 Feel free to reach out ... </h2>
 <p align="center">
