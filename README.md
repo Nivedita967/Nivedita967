@@ -25,7 +25,6 @@ I am Nivedita Singh. ✨
 <br><br>
 <b>or email me  ... <a href="mailto:nivedita19390@gmail.com"><img src="https://img.shields.io/badge/-nivedita19390@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nivedita19390@gmail.com" alt="Gmail Badge" height="30"></a></h2>
 </p>
---------------------------------------------------------------
-<pre>
-<h2>    ☕ Happy Coding ☕</p>
-</pre>
+------------------------------------------------------------------------------
+<h2>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;☕ Happy Coding ☕</h2>
+
