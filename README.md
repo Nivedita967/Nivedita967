@@ -2,14 +2,13 @@ Holla there 🖖
 ---
 You have finally discovered my Github profile.😜  
 
-<img align="right" src="https://media1.tenor.com/images/3f19918c407c59d2c2df00cbaecddca2/tenor.gif?itemid=11961164" width="387" height="350"/>
-
+<img align="right" src="https://media1.tenor.com/images/3f19918c407c59d2c2df00cbaecddca2/tenor.gif?itemid=11961164" width="310" height="370"/>
 
 I am Nivedita Singh. ✨ 
 --- 
+- Lifelong learner who keeps acquiring new skills and capabilities in life.
 - Pronouns : She/her ... 👩   
 - Open for collaboration ... 🌟 
-- Lifelong learner who keeps acquiring new skills and capabilities in life ...📝
 - Working on Web Development (Front-end and back-end both)... 🚧
 - Competitive Programming ... 🎯
 - Open Source Countribution ... 👩‍💻   
