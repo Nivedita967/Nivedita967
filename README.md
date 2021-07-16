@@ -2,7 +2,7 @@ Holla there 🖖
 ---
 You have finally discovered my Github profile.😜  
 
-<img align="right" src="https://media1.tenor.com/images/3f19918c407c59d2c2df00cbaecddca2/tenor.gif?itemid=11961164" width="310" height="370"/>
+<img align="right" src="https://media1.tenor.com/images/3f19918c407c59d2c2df00cbaecddca2/tenor.gif?itemid=11961164" width="310" height="330"/>
 
 I am Nivedita Singh. ✨ 
 --- 
